@@ -3,7 +3,7 @@
     'name': 'Automatic Backup (Dropbox, Google Drive, Amazon S3, SFTP)',
     'version': '1.5.2',
     'summary': 'Automatic Backup',
-    'author': 'Grzegorz Krukar (grzegorzgk1@gmail.com)',
+    'author': 'Andema',
     'description': """
     Automatic Backup
     """,
